@@ -1,0 +1,19 @@
+.col {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100px;
+margin: 5px;
+color: white;
+}
+
+
+
+
+.carousel.slide img {
+
+height: 200px ;
+
+
+
+}
